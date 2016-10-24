@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [Bab 1](bab-1.md)
+* [Pengantar](README.md)
+* [Dasar Javascript](bab-1.md)
     * [Variabel](variabel.md)
 
