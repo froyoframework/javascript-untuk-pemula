@@ -1,2 +1,2 @@
-# Memulai Melakukan Pemrograman dengan JavaScript
+# Memulai Pemrograman dengan JavaScript
 
