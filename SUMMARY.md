@@ -1,7 +1,6 @@
 # Summary
 
 * [Pengantar](README.md)
-* [Dasar Javascript](bab-1.md)
-* Memulai Coding
+* [Memulai Coding](memulai-coding.md)
 * [Variabel](variabel.md)
 
