@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [variable](variable.md)
+* [variable](Chapter 1/variable.md)
 
