@@ -1,2 +1,2 @@
-# javascript-untuk-pemula
-Belajar pemrograman JavaScript untuk pemula.
+# Pemrograman JavaScript untuk Pemula
+
