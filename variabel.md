@@ -4,6 +4,15 @@ Variabel adalah lokasi tertentu pada memori komputer yang digunakan untuk menyim
 
 Cara membuat variabel pada JavaScript ada beberapa cara:
 
+EcmaScript 5
+
+```javascript
+var namaOrang = "Budi";
+var umur = 42;
+```
+
+EcmaScript 6
+
 ```javascript
 let namaOrang = "Budi";
 let umur = 42;
