@@ -1,1 +1,0 @@
-Pengenalan dasar-dasar JavaScript.
