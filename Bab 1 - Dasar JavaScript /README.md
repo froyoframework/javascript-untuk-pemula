@@ -1,1 +1,0 @@
-Konsep dasar JavaScript.
