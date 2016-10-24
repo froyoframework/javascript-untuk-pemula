@@ -4,6 +4,10 @@ JavaScript dapat dipergunakan untuk membuat aplikasi pada _client side_ maupun _
 
 **_1. Browser_**
 
-Anda dapat menggunakan _browser_ seperti Google Chrome, Mozilla Firefox, Opera, Microsoft Edge, atau pun Apple Safari. Di buku ini saya akan memberikan contoh dengan menggunakan Mozilla Firefox.  
+Anda dapat menggunakan _browser_ seperti Google Chrome, Mozilla Firefox, Opera, Microsoft Edge, atau pun Apple Safari. Di buku ini saya akan memberikan contoh dengan menggunakan Mozilla Firefox.
+
+**_2. Text Editor_**
+
+
 
 
