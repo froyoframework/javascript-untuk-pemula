@@ -15,4 +15,4 @@ Tipe data digunakan untuk memberi tahu _compiler_ atau _intrepreter_ bagaimana p
 
 **3. Boolean**
 
-**
+**Boolean** merepresentasikan sebuah kebenaran dari ekspresi. Hanya memiliki 2 nilai yaitu: `true` dan `false`.
