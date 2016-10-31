@@ -17,3 +17,10 @@ Tipe data digunakan untuk memberi tahu _compiler_ atau _intrepreter_ bagaimana p
 
 **Boolean** merepresentasikan sebuah kebenaran dari ekspresi. Hanya memiliki 2 nilai yaitu: `true` dan `false`.
 
+**4. Undefined**
+
+**Undefined** merepresentasikan sebuah nilai yang belum pernah dideklarasikan sebelumnya.
+
+**5. Null**
+
+**Null** merepresentasikan sebuah kekosongan. Nilainya hanya satu, yaitu: `null`.
