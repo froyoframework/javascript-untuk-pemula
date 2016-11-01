@@ -1,17 +1,40 @@
-# Variabel
+# Variable
 
-Variabel adalah lokasi tertentu pada memori komputer yang digunakan untuk menyimpan data sementara. Bisa dianalogikan variabel itu seperti sebuah kotak kardus yang diberi nama, lalu diisi dengan barang-barang tertentu.
+_Variable_ adalah lokasi tertentu pada memori komputer yang digunakan untuk menyimpan data sementara. Bisa dianalogikan _variable_ itu seperti sebuah kotak kardus yang diberi nama, lalu diisi dengan barang-barang tertentu.
 
-EcmaScript 5
+Ada beberapa cara untuk mendeklarasikan _variable_. Jika kita hendak menggunakan standar ECMAScript 5 maka kita akan menggunakan kata kunci `var`, seperti di bawah ini:
 
 ```javascript
 var namaOrang = "Budi";
 var umur = 42;
 ```
 
-EcmaScript 6
+Jika kita hendak menggunakan standar ECMAScript 6 maka kita akan menggunakan kata kunci `let` atau `const`, seperti di bawah ini: 
 
 ```javascript
 let namaOrang = "Budi";
 let umur = 42;
+
+const pi = 3.14;
+const kota = "Jakarta";
 ```
+
+Berikut ini beberapa  antara menggunakan `var`, `let`, dan `const`:
+1. Variable scoping `let` dan `const` yang lebih baik dibanding `var`. Ini akan kita jelaskan lebih lanjut di bab khusus.
+2. `let` dan `var` dapat diubah-ubah nilainya setelah didefinisikan. Contoh:
+```javascript
+let namaOrang = "Asep"; // saat ini nilainya Asep
+namaOrang = "Didit"; // saat ini nilainya berubah menjadi Didit
+
+var umur = 29; // saat ini nilainya 29
+umur = 30; // lalu diubah menjadi 30
+```
+3. `const` nilainya tidak dapat diubah setelah didefinisikan. Contoh:
+```javascript
+const pi = 3.14; // sekarang nilainya 3.14
+pi = 4; // akan terjadi error
+```
+
+## Pro Tips
+
+Sebisa mungkin gunakan standar ES6 `let` dan `const` untuk mendeklarasikan _variable_, untuk mengurangi kesalahan-kesalahan akibat nilai _variable_ yang mungkin tidak sengaja berubah.
