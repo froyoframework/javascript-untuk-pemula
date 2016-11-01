@@ -21,9 +21,9 @@ const kota = "Jakarta";
 
 Berikut ini beberapa  antara menggunakan `var`, `let`, dan `const`:
 
-1. Variable scoping `let` dan `const` yang lebih baik dibanding `var`. Ini akan kita jelaskan lebih lanjut di bab khusus.
+- Variable scoping `let` dan `const` yang lebih baik dibanding `var`. Ini akan kita jelaskan lebih lanjut di bab khusus.
 
-2. `let` dan `var` dapat diubah-ubah nilainya setelah didefinisikan. Contoh:
+- `let` dan `var` dapat diubah-ubah nilainya setelah didefinisikan. Contoh:
 
 ```javascript
 let namaOrang = "Asep"; // saat ini nilainya Asep
@@ -33,7 +33,7 @@ var umur = 29; // saat ini nilainya 29
 umur = 30; // lalu diubah menjadi 30
 ```
 
-3. `const` nilainya tidak dapat diubah setelah didefinisikan. Contoh:
+- `const` nilainya tidak dapat diubah setelah didefinisikan. Contoh:
 
 ```javascript
 const pi = 3.14; // sekarang nilainya 3.14
