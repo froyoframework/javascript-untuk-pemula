@@ -22,6 +22,7 @@ const kota = "Jakarta";
 Berikut ini beberapa  antara menggunakan `var`, `let`, dan `const`:
 
 1. Variable scoping `let` dan `const` yang lebih baik dibanding `var`. Ini akan kita jelaskan lebih lanjut di bab khusus.
+
 2. `let` dan `var` dapat diubah-ubah nilainya setelah didefinisikan. Contoh:
 
 ```javascript
@@ -41,4 +42,6 @@ pi = 4; // akan terjadi error
 
 ## Pro Tips
 
-Sebisa mungkin gunakan standar ES6 `let` dan `const` untuk mendeklarasikan _variable_, untuk mengurangi kesalahan-kesalahan akibat nilai _variable_ yang mungkin tidak sengaja berubah.
+1. Sebisa mungkin gunakan standar ES6 `let` dan `const` untuk mendeklarasikan _variable_, untuk mengurangi kesalahan-kesalahan akibat nilai _variable_ yang mungkin tidak sengaja berubah.
+2. Sebaiknya gunakan nama _variable_ yang memiliki makna, misal: `let age`, `let umur`, `let tanggalSekarang`, `const salary`, dll. Hindari penggunaan nama yang hanya memiliki 1 huruf, seperti: `let a`, `let i`, dsb.
+3. Nama _variable_ sebaiknya ditulis dengan format Camel Case, seperti ini:`let kecilBesar`, `let namaOrangTua`, dsb. 
