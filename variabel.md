@@ -19,7 +19,7 @@ const pi = 3.14;
 const kota = "Jakarta";
 ```
 
-Berikut ini beberapa  antara menggunakan `var`, `let`, dan `const`:
+Berikut ini beberapa perbedaan antara menggunakan `var`, `let`, dan `const`:
 
 - Variable scoping `let` dan `const` yang lebih baik dibanding `var`. Ini akan kita jelaskan lebih lanjut di bab khusus.
 
